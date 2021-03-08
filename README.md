@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens que trabalhei: <strong>HTML5, CSS3, JavaScript, C, C++</strong>
+  🦄 Linguagens que trabalhei: <strong>HTML5, CSS3, Java, JavaScript, TypeScript, C, C++, Delphi</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, DaVinci Resolve, Git, GitHub</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, DaVinci Resolve, Git, GitHub, Spring Tools, Astah</strong>
 </p>
 
 <p align="left">
