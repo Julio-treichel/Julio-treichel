@@ -1,22 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Julio, estou no segundo ano de <strong>Análise e Desenvolvimento
+  Olá, meu nome é Julio, estou no último ano de <strong>Análise e Desenvolvimento
   de Sistemas</strong>.<br>
-  Por ser iniciante tanto na área como no curso, procuro saber de tudo um pouco<br>
-  para ver em qual ramo me identifico mais.
+  Estou a 2 anos trabalhando como CT / Desenvolvedor na TecnoSpeed, na operação PlugDash<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens que trabalhei: <strong>HTML5, CSS3, Java, JavaScript, TypeScript, C, C++, Delphi</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript / TypeScript, SQL e No-SQL</strong>
+  📖 Frameworks: <strong>React, React-Native, Angular</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, DaVinci Resolve, Git, GitHub, Spring Tools, Astah</strong>
+  💼 Ferramentas: <strong>Git, Spring Tools, Node, XCode, Cordova, VSCode, Robo-3T</strong>
 </p>
 
 <p align="left">
-  💌 Se quiser entrar em contato, não hesite em mandar uma mensagem: ⤵️
+  💌 Se quiser entrar em contato, só mandar uma mensagem 😊: ⤵️
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/julio-treichel-94334b1b0/" alt="Linkedin">
