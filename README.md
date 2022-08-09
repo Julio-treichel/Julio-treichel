@@ -7,8 +7,8 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript / TypeScript, SQL e No-SQL</strong>
-  📖 Frameworks: <strong>React, React-Native, Angular</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, JS, Dart / TypeScript, SQL e No-SQL</strong>
+  📖 Frameworks: <strong>React, React-Native, Flutter, AngularJS</strong>
 </p>
 
 <p align="left">
