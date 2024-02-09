@@ -8,7 +8,10 @@
 
 <p align="left">
   📗 Linguagens: <strong>NodeJS, JavaScript / TypeScript, trabalhei um pouco com Java, SQL e No-SQL (apenas trabalhei com MongoDB)</strong>
+</p>
+<p align="left">
   📖 Frameworks Back-end: <strong>NestJS, Express</strong>
+<p align="left">
   📖 Frameworks Front-end: <strong>React, React-Native, AngularJS</strong>
 </p>
 
