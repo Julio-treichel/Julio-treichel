@@ -1,22 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Julio, estou no último ano de <strong>Análise e Desenvolvimento
+  Olá, meu nome é Julio, sou formado em <strong>Análise e Desenvolvimento
   de Sistemas</strong>.<br>
-  Estou a 2 anos trabalhando como CT / Desenvolvedor na TecnoSpeed, na operação PlugDash<br>
+  Tenho 1 ano e meio de experiência como desenvolvedor Full-stack<br>
 </p>
 
 <p align="left">
-  📗 Linguagens: <strong>NodeJS, JavaScript / TypeScript, trabalhei um pouco com Java, SQL e No-SQL (apenas trabalhei com MongoDB)</strong>
+  📗 Linguagens: <strong>JavaScript / TypeScript, SQL (Postgres, Firebird, SQL Server, MySQL, e muitos outros) e MongoDB, um pouco de Java </strong>
 </p>
 <p align="left">
-  📖 Frameworks Back-end: <strong>NestJS, Express</strong>
+  📖 Frameworks Back-end: <strong>NestJS, Express (Node.JS)</strong>
 <p align="left">
-  📖 Frameworks Front-end: <strong>React, React-Native, AngularJS</strong>
+  📖 Frameworks Front-end: <strong>Vue.js, React-Native, AngularJS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, IntelliJ, XCode, VSCode, Robo-3T</strong>
+  💼 Ferramentas: <strong>AWS, Git, IntelliJ, XCode, VSCode, Robo-3T</strong>
 </p>
 
 <p align="left">
