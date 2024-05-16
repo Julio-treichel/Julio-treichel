@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  📗 Linguagens: <strong>JavaScript / TypeScript, SQL (Postgres, Firebird, SQL Server, MySQL, e muitos outros) e MongoDB, um pouco de Java </strong>
+  📗 Linguagens: <strong>JavaScript / TypeScript, SQL, NoSQL e um pouco de Java</strong>
 </p>
 <p align="left">
   📖 Frameworks Back-end: <strong>NestJS, NodeJS (Express)</strong>
